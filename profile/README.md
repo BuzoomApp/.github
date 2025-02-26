@@ -26,5 +26,5 @@ Este projeto visa desenvolver um sistema completo que permite aos usuários rast
 6. **Manutenção e Atualizações**: Monitoramento e melhorias contínuas baseadas no feedback dos usuários.
 
 ## Contato
-Para mais informações ou para participar do projeto, entre em contato pelo e-mail: [contato@buzoom.app.br](mailto:contato@buzoom.app.br).
+Para mais informações: contato@buzoom.app.br
 
